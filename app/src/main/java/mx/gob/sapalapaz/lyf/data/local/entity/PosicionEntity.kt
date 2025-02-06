@@ -1,4 +1,4 @@
-package mx.gob.oomsapaslapaz.LyF.lectura_y_facturacion.data.local.entity
+package mx.gob.sapalapaz.lyf.data.local.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

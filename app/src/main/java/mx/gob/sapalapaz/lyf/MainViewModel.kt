@@ -5,8 +5,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.map
-import mx.gob.oomsapaslapaz.LyF.auth.data.local.preferences.UserPreferences
-import mx.gob.oomsapaslapaz.LyF.core.data.local.preferences.CorePreferences
+import mx.gob.sapalapaz.lyf.data.local.preferences.UserPreferences
 import javax.inject.Inject
 
 @HiltViewModel
